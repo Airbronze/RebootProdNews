@@ -1,0 +1,4 @@
+Copyright © 2026 Reboot Team. All rights reserved.
+No part of this repository, including assets, code, documentation, may be used, copied, modified, or redistributed in any form without prior written permission of the copyright owner.
+
+This repository is used for the News Page of Project Reboot.
